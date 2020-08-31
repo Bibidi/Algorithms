@@ -6,11 +6,14 @@ int main() {
     cin.tie(0);
     
     int n; cin >> n;
+    double res = 0.0;
     
-    if (n % 2 == 1) cout << -1;
-    else {
-        for (int i = n; i >= 1; i--)
-            cout << i << ' ';
+    for (int i = 0; i < n; i++) {
+        int x; cin >> x;
+        res += x;
     }
+    
+    cout << res / n;
+    
     return 0;
 }
