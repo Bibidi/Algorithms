@@ -28,6 +28,6 @@ Books
 Topic
 
  - Marcov Chain
-  정확히 이해하는 데 확률론 필요. 그런데 확률론 normalization distribution부터 multiple integral하고 taylor series 필요
-  하던데, 알고리즘 문제 풀 정도로만 적당하게 할 수 있나 고려해봐야 할 듯.
+  정확히 이해하는 데 확률론 필요. 그런데 확률론 normalization distribution부터 multiple integral하고 taylor series 다루는
+  감이 좀 필요하던데, 알고리즘 문제 풀 정도로만 적당하게 할 수 있나 알아봐야 할 듯.
   
