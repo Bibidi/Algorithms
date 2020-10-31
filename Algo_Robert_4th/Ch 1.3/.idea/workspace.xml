@@ -41,13 +41,16 @@
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="ToolWindowMessages.ShowToolbar" value="false" />
     <property name="ToolWindowRun.ShowToolbar" value="false" />
+    <property name="dart.analysis.tool.window.visible" value="false" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="settings.editor.selected.configurable" value="settings.saveactions" />
+    <property name="show.migrate.to.gradle.popup" value="false" />
   </component>
   <component name="RunManager" selected="Application.Evaluate">
     <configuration name="Evaluate" type="Application" factoryName="Application">
       <option name="MAIN_CLASS_NAME" value="Evaluate" />
       <module name="Algorithms, Part I" />
+      <option name="PROGRAM_PARAMETERS" value="( 1 )" />
       <method v="2" />
     </configuration>
     <configuration name="FixedCapacityStack" type="Application" factoryName="Application">
@@ -90,25 +93,9 @@
     </todo-panel>
   </component>
   <component name="WindowStateProjectService">
-    <state x="453" y="125" key="#com.intellij.ide.util.MemberChooser" timestamp="1595042101631">
+    <state x="305" y="124" key="search.everywhere.popup" timestamp="1604175578814">
       <screen x="0" y="23" width="1280" height="777" />
     </state>
-    <state x="453" y="125" key="#com.intellij.ide.util.MemberChooser/0.23.1280.777@0.23.1280.777" timestamp="1595042101631" />
-    <state width="1259" height="207" key="GridCell.Tab.0.bottom" timestamp="1595072558685">
-      <screen x="0" y="23" width="1280" height="777" />
-    </state>
-    <state width="1259" height="207" key="GridCell.Tab.0.bottom/0.23.1280.777@0.23.1280.777" timestamp="1595072558685" />
-    <state width="1259" height="207" key="GridCell.Tab.0.center" timestamp="1595072558684">
-      <screen x="0" y="23" width="1280" height="777" />
-    </state>
-    <state width="1259" height="207" key="GridCell.Tab.0.center/0.23.1280.777@0.23.1280.777" timestamp="1595072558683" />
-    <state width="1259" height="207" key="GridCell.Tab.0.left" timestamp="1595072558683">
-      <screen x="0" y="23" width="1280" height="777" />
-    </state>
-    <state width="1259" height="207" key="GridCell.Tab.0.left/0.23.1280.777@0.23.1280.777" timestamp="1595072558683" />
-    <state width="1259" height="207" key="GridCell.Tab.0.right" timestamp="1595072558684">
-      <screen x="0" y="23" width="1280" height="777" />
-    </state>
-    <state width="1259" height="207" key="GridCell.Tab.0.right/0.23.1280.777@0.23.1280.777" timestamp="1595072558684" />
+    <state x="305" y="124" key="search.everywhere.popup/0.23.1280.777@0.23.1280.777" timestamp="1604175578814" />
   </component>
 </project>
