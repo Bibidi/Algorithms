@@ -46,7 +46,7 @@
     <property name="settings.editor.selected.configurable" value="settings.saveactions" />
     <property name="show.migrate.to.gradle.popup" value="false" />
   </component>
-  <component name="RunManager" selected="Application.Evaluate">
+  <component name="RunManager" selected="Application.P13">
     <configuration name="Evaluate" type="Application" factoryName="Application">
       <option name="MAIN_CLASS_NAME" value="Evaluate" />
       <module name="Algorithms, Part I" />
@@ -61,12 +61,49 @@
     <configuration name="FixedCapacityStackOfStrings" type="Application" factoryName="Application">
       <option name="MAIN_CLASS_NAME" value="FixedCapacityStackOfStrings" />
       <module name="Algorithms, Part I" />
+      <option name="PROGRAM_PARAMETERS" value="tobe.txt" />
       <method v="2" />
     </configuration>
     <configuration name="Flips" type="Application" factoryName="Application">
       <option name="MAIN_CLASS_NAME" value="Flips" />
       <module name="Algorithms, Part I" />
       <option name="PROGRAM_PARAMETERS" value="10000" />
+      <method v="2" />
+    </configuration>
+    <configuration name="P03" type="Application" factoryName="Application">
+      <option name="MAIN_CLASS_NAME" value="P03" />
+      <module name="Algorithms, Part I" />
+      <method v="2" />
+    </configuration>
+    <configuration name="P05" type="Application" factoryName="Application">
+      <option name="MAIN_CLASS_NAME" value="P05" />
+      <module name="Algorithms, Part I" />
+      <option name="PROGRAM_PARAMETERS" value="50" />
+      <method v="2" />
+    </configuration>
+    <configuration name="P09" type="Application" factoryName="Application">
+      <option name="MAIN_CLASS_NAME" value="P09" />
+      <module name="Algorithms, Part I" />
+      <method v="2" />
+    </configuration>
+    <configuration name="P10" type="Application" factoryName="Application">
+      <option name="MAIN_CLASS_NAME" value="P10" />
+      <module name="Algorithms, Part I" />
+      <method v="2" />
+    </configuration>
+    <configuration name="P11" type="Application" factoryName="Application">
+      <option name="MAIN_CLASS_NAME" value="P11" />
+      <module name="Algorithms, Part I" />
+      <method v="2" />
+    </configuration>
+    <configuration name="P12" type="Application" factoryName="Application">
+      <option name="MAIN_CLASS_NAME" value="P12" />
+      <module name="Algorithms, Part I" />
+      <method v="2" />
+    </configuration>
+    <configuration name="P13" type="Application" factoryName="Application">
+      <option name="MAIN_CLASS_NAME" value="P13" />
+      <module name="Algorithms, Part I" />
       <method v="2" />
     </configuration>
     <configuration name="Reverse" type="Application" factoryName="Application">
@@ -93,25 +130,49 @@
     </todo-panel>
   </component>
   <component name="WindowStateProjectService">
-    <state width="1280" height="214" key="GridCell.Tab.0.bottom" timestamp="1604252606411">
+    <state x="453" y="125" key="#com.intellij.ide.util.MemberChooser" timestamp="1605160310368">
       <screen x="0" y="23" width="1280" height="777" />
     </state>
-    <state width="1280" height="214" key="GridCell.Tab.0.bottom/0.23.1280.777@0.23.1280.777" timestamp="1604252606411" />
-    <state width="1280" height="214" key="GridCell.Tab.0.center" timestamp="1604252606410">
+    <state x="453" y="125" key="#com.intellij.ide.util.MemberChooser/0.23.1280.777@0.23.1280.777" timestamp="1605160310368" />
+    <state x="352" y="195" key="#com.intellij.refactoring.encapsulateFields.EncalpsulateFieldsDialog" timestamp="1605153175602">
       <screen x="0" y="23" width="1280" height="777" />
     </state>
-    <state width="1280" height="214" key="GridCell.Tab.0.center/0.23.1280.777@0.23.1280.777" timestamp="1604252606410" />
-    <state width="1280" height="214" key="GridCell.Tab.0.left" timestamp="1604252606410">
+    <state x="352" y="195" key="#com.intellij.refactoring.encapsulateFields.EncalpsulateFieldsDialog/0.23.1280.777@0.23.1280.777" timestamp="1605153175602" />
+    <state width="1238" height="211" key="GridCell.Tab.0.bottom" timestamp="1605182661939">
       <screen x="0" y="23" width="1280" height="777" />
     </state>
-    <state width="1280" height="214" key="GridCell.Tab.0.left/0.23.1280.777@0.23.1280.777" timestamp="1604252606410" />
-    <state width="1280" height="214" key="GridCell.Tab.0.right" timestamp="1604252606411">
+    <state width="1238" height="211" key="GridCell.Tab.0.bottom/0.23.1280.777@0.23.1280.777" timestamp="1605182661939" />
+    <state width="1238" height="211" key="GridCell.Tab.0.center" timestamp="1605182661939">
       <screen x="0" y="23" width="1280" height="777" />
     </state>
-    <state width="1280" height="214" key="GridCell.Tab.0.right/0.23.1280.777@0.23.1280.777" timestamp="1604252606411" />
-    <state x="305" y="124" key="search.everywhere.popup" timestamp="1604175578814">
+    <state width="1238" height="211" key="GridCell.Tab.0.center/0.23.1280.777@0.23.1280.777" timestamp="1605182661939" />
+    <state width="1238" height="211" key="GridCell.Tab.0.left" timestamp="1605182661938">
       <screen x="0" y="23" width="1280" height="777" />
     </state>
-    <state x="305" y="124" key="search.everywhere.popup/0.23.1280.777@0.23.1280.777" timestamp="1604175578814" />
+    <state width="1238" height="211" key="GridCell.Tab.0.left/0.23.1280.777@0.23.1280.777" timestamp="1605182661938" />
+    <state width="1238" height="211" key="GridCell.Tab.0.right" timestamp="1605182661939">
+      <screen x="0" y="23" width="1280" height="777" />
+    </state>
+    <state width="1238" height="211" key="GridCell.Tab.0.right/0.23.1280.777@0.23.1280.777" timestamp="1605182661939" />
+    <state width="1238" height="257" key="GridCell.Tab.1.bottom" timestamp="1605182661933">
+      <screen x="0" y="23" width="1280" height="777" />
+    </state>
+    <state width="1238" height="257" key="GridCell.Tab.1.bottom/0.23.1280.777@0.23.1280.777" timestamp="1605182661933" />
+    <state width="1238" height="257" key="GridCell.Tab.1.center" timestamp="1605182661933">
+      <screen x="0" y="23" width="1280" height="777" />
+    </state>
+    <state width="1238" height="257" key="GridCell.Tab.1.center/0.23.1280.777@0.23.1280.777" timestamp="1605182661933" />
+    <state width="1238" height="257" key="GridCell.Tab.1.left" timestamp="1605182661933">
+      <screen x="0" y="23" width="1280" height="777" />
+    </state>
+    <state width="1238" height="257" key="GridCell.Tab.1.left/0.23.1280.777@0.23.1280.777" timestamp="1605182661933" />
+    <state width="1238" height="257" key="GridCell.Tab.1.right" timestamp="1605182661933">
+      <screen x="0" y="23" width="1280" height="777" />
+    </state>
+    <state width="1238" height="257" key="GridCell.Tab.1.right/0.23.1280.777@0.23.1280.777" timestamp="1605182661933" />
+    <state x="305" y="124" width="670" height="676" key="search.everywhere.popup" timestamp="1605176452540">
+      <screen x="0" y="23" width="1280" height="777" />
+    </state>
+    <state x="305" y="124" width="670" height="676" key="search.everywhere.popup/0.23.1280.777@0.23.1280.777" timestamp="1605176452540" />
   </component>
 </project>
