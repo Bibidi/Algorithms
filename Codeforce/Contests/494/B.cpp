@@ -1,21 +1,47 @@
 #include <bits/stdc++.h>
 using namespace std;
- 
+
 typedef long long ll;
- 
+
 int main() {
     ios::sync_with_stdio(false);
     cin.tie(0);
     
-    int n;
-    string s;
-    cin >> n >> s;
+    int a, b, x;
+    cin >> a >> b >> x;
     
-    for (int i = 1; i <= n; i++) {
-        if (n % i == 0) {
-            reverse(s.begin(), s.begin() + i);
+    if (x % 2 == 0) {
+        if (a > b) {
+            for (int i = 0; i < x/2; i++) {
+                cout << "01";
+            }
+            cout << string(b - x/2, '1');
+            cout << string(a - x/2, '0');
+        }
+        else {
+            for (int i = 0; i < x/2; i++) {
+                cout << "10";
+            }
+            cout << string(a - x/2, '0');
+            cout << string(b - x/2, '1');
         }
     }
-    cout << s << '\n';
+    else {
+        if (a > b) {
+            for (int i = 0; i < x/2; i++) {
+                cout << "01";
+            }
+            cout << string(a - x/2, '0');
+            cout << string(b - x/2, '1');
+        }
+        else {
+            for (int i = 0; i < x/2; i++) {
+                cout << "10";
+            }
+            cout << string(b - x/2, '1');
+            cout << string(a - x/2, '0');
+        }
+    }
     return 0;
 }
+

@@ -1,45 +1,26 @@
 #include <bits/stdc++.h>
 using namespace std;
-
+ 
 typedef long long ll;
-
+ 
 int main() {
-    ios::sync_with_stdio(false);
-    cin.tie(0);
-    
     int n, k;
     cin >> n >> k;
-    string s; cin >> s;
     
-    vector<int> cnt(26);
-    
-    for (int i = 0; i < n; i++) {
-        cnt[s[i] - 'a']++;
+    vector<int> a(n + 1);
+    for (int i = 1; i <= n; i++) {
+        cin >> a[i];
+        a[i] += a[i - 1];
     }
     
-    for (int i = 0; i < 26 && k > 0; i++) {
-        if (k >= cnt[i]) {
-            k -= cnt[i];
-            cnt[i] = 0;
-        }
-        else {
-            cnt[i] -= k;
-            k = 0;
+    double ans = 0.0;
+    for (int r = 1; r <= n; r++) {
+        for (int l = 0; l < r; l++) {
+            if (r - l >= k) {
+                ans = max(ans, (a[r] - a[l]) / (double) (r - l));
+            }
         }
     }
-    
-    stack<char> st;
-    for (int i = n-1; i >= 0; i--) {
-        char t = s[i];
-        if (cnt[t - 'a'] > 0) {
-            st.push(t);
-            cnt[t - 'a']--;
-        }
-    }
-    
-    while (!st.empty()) {
-        cout << st.top();
-        st.pop();
-    }
+    cout << fixed << setprecision(15) << ans;
     return 0;
 }
