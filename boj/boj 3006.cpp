@@ -58,4 +58,5 @@ int main() {
             cout << sum (pos + 1, n) << '\n';
         }
     }
+    return 0;
 }

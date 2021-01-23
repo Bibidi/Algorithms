@@ -55,4 +55,5 @@ int main() {
         ans = ((ans % MOD) * (cur % MOD)) % MOD;
     }
     cout << ans;
+    return 0;
 }

@@ -46,4 +46,5 @@ int main() {
             add(f, c);
         }
     }
+    return 0;
 }
