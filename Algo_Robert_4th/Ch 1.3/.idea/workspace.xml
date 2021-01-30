@@ -46,7 +46,7 @@
     <property name="settings.editor.selected.configurable" value="settings.saveactions" />
     <property name="show.migrate.to.gradle.popup" value="false" />
   </component>
-  <component name="RunManager" selected="Application.P13">
+  <component name="RunManager" selected="Application.Problem">
     <configuration name="Evaluate" type="Application" factoryName="Application">
       <option name="MAIN_CLASS_NAME" value="Evaluate" />
       <module name="Algorithms, Part I" />
@@ -106,6 +106,11 @@
       <module name="Algorithms, Part I" />
       <method v="2" />
     </configuration>
+    <configuration name="Problem" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Problem" />
+      <module name="Algorithms, Part I" />
+      <method v="2" />
+    </configuration>
     <configuration name="Reverse" type="Application" factoryName="Application">
       <option name="MAIN_CLASS_NAME" value="Reverse" />
       <module name="Algorithms, Part I" />
@@ -119,6 +124,11 @@
     <configuration default="true" type="Application" factoryName="Application">
       <method v="2" />
     </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Problem" />
+      </list>
+    </recent_temporary>
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -138,22 +148,22 @@
       <screen x="0" y="23" width="1280" height="777" />
     </state>
     <state x="352" y="195" key="#com.intellij.refactoring.encapsulateFields.EncalpsulateFieldsDialog/0.23.1280.777@0.23.1280.777" timestamp="1605153175602" />
-    <state width="1238" height="211" key="GridCell.Tab.0.bottom" timestamp="1605182661939">
+    <state width="1238" height="211" key="GridCell.Tab.0.bottom" timestamp="1611836870283">
       <screen x="0" y="23" width="1280" height="777" />
     </state>
-    <state width="1238" height="211" key="GridCell.Tab.0.bottom/0.23.1280.777@0.23.1280.777" timestamp="1605182661939" />
-    <state width="1238" height="211" key="GridCell.Tab.0.center" timestamp="1605182661939">
+    <state width="1238" height="211" key="GridCell.Tab.0.bottom/0.23.1280.777@0.23.1280.777" timestamp="1611836870283" />
+    <state width="1238" height="211" key="GridCell.Tab.0.center" timestamp="1611836870282">
       <screen x="0" y="23" width="1280" height="777" />
     </state>
-    <state width="1238" height="211" key="GridCell.Tab.0.center/0.23.1280.777@0.23.1280.777" timestamp="1605182661939" />
-    <state width="1238" height="211" key="GridCell.Tab.0.left" timestamp="1605182661938">
+    <state width="1238" height="211" key="GridCell.Tab.0.center/0.23.1280.777@0.23.1280.777" timestamp="1611836870282" />
+    <state width="1238" height="211" key="GridCell.Tab.0.left" timestamp="1611836870282">
       <screen x="0" y="23" width="1280" height="777" />
     </state>
-    <state width="1238" height="211" key="GridCell.Tab.0.left/0.23.1280.777@0.23.1280.777" timestamp="1605182661938" />
-    <state width="1238" height="211" key="GridCell.Tab.0.right" timestamp="1605182661939">
+    <state width="1238" height="211" key="GridCell.Tab.0.left/0.23.1280.777@0.23.1280.777" timestamp="1611836870282" />
+    <state width="1238" height="211" key="GridCell.Tab.0.right" timestamp="1611836870283">
       <screen x="0" y="23" width="1280" height="777" />
     </state>
-    <state width="1238" height="211" key="GridCell.Tab.0.right/0.23.1280.777@0.23.1280.777" timestamp="1605182661939" />
+    <state width="1238" height="211" key="GridCell.Tab.0.right/0.23.1280.777@0.23.1280.777" timestamp="1611836870283" />
     <state width="1238" height="257" key="GridCell.Tab.1.bottom" timestamp="1605182661933">
       <screen x="0" y="23" width="1280" height="777" />
     </state>
