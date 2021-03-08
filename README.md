@@ -1,9 +1,12 @@
 # Algorithms
 
+내용 정리
+ - https://bibidi0.tistory.com/
 
 
-
-사이트 정리
+사이트
+ - CodeForces
+ http://codeforces.com/
 
  - Atcoder problem
  https://kenkoooo.com/atcoder/#/table/
@@ -23,4 +26,4 @@
 Books
 
 1. A walk through combinatorics - Miklós Bóna
- - 그래프 이론을 너무 대충 배워서 이 책 한 번 보고 넘어가야함.
+ - 조합론 보충용 책.
