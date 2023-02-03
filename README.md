@@ -1,8 +1,5 @@
 # Algorithms
 
-내용 정리
- - https://bibidi0.tistory.com/
-
 
 사이트
  - CodeForces
